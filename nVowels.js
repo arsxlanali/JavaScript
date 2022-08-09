@@ -11,5 +11,5 @@ function nVowels(str)
 	}
   	return count;
 }
-
+// this is the compact from the vowels in the string
 console.log(nVowels("Aeidjkd"));
